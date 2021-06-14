@@ -1,0 +1,1522 @@
+stt,ev,lb
+1,"bus road, street vendors, slowdowns, traffic jam, small road",1
+2,"good road have traffic police, police control, good traffic",0
+3,"police control, good traffic",0
+4,"small road, flooding, traffic jam",1
+5,other,0
+6,"encroachung on the side, have childrens, near school district, accident",1
+7,"someone is going in the opposite direction, asynchronous infrastructure",1
+8,"the route with many pedestrians, encroaching on the sidewalk",1
+9,"near university, traffic jam, accident, flooded",1
+10,"few people move, normal, large road",0
+11,"good traffic, police control",0
+12,"large road, police control, few people move",0
+13,"police control, large road",0
+14,normal,0
+15,"police control, normal",0
+16,"large road, police control",0
+17,"accident, fog, potholo",1
+18,"road construction, object on roadway, accident, potholo",1
+19,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+20,"major event, monor accident, small traffic jam, flodded",1
+21,"medium traffic jam, normal",0
+22,"good traffic, huge traffic jam, police control",0
+23,normal,0
+24,"flooded road, potholo, traffic jam",1
+25,"flooding, potholo, bus route, police control",1
+26,normal,0
+27,"bus road, street vendors, slowdowns, traffic jam, small road",1
+28,"good road have traffic police, police control, good traffic",0
+29,"police control, good traffic",0
+30,"small road, flooding, traffic jam",1
+31,other,0
+32,"encroachung on the side, have childrens, near school district, accident",1
+33,"someone is going in the opposite direction, asynchronous infrastructure",1
+34,"the route with many pedestrians, encroaching on the sidewalk",1
+35,"near university, traffic jam, accident, flooded",1
+36,"few people move, normal, large road",0
+37,"good traffic, police control",0
+38,"large road, police control, few people move",0
+39,"police control, large road",0
+40,normal,0
+41,"police control, normal",0
+42,"large road, police control",0
+43,"accident, fog, potholo",1
+44,"road construction, object on roadway, accident, potholo",1
+45,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+46,"major event, monor accident, small traffic jam, flodded",1
+47,"medium traffic jam, normal",0
+48,"good traffic, huge traffic jam, police control",0
+49,normal,0
+50,"flooded road, potholo, traffic jam",1
+51,"flooding, potholo, bus route, police control",1
+52,normal,0
+53,"bus road, street vendors, slowdowns, traffic jam, small road",1
+54,"good road have traffic police, police control, good traffic",0
+55,"police control, good traffic",0
+56,"small road, flooding, traffic jam",1
+57,other,0
+58,"encroachung on the side, have childrens, near school district, accident",1
+59,"someone is going in the opposite direction, asynchronous infrastructure",1
+60,"the route with many pedestrians, encroaching on the sidewalk",1
+61,"near university, traffic jam, accident, flooded",1
+62,"few people move, normal, large road",0
+63,"good traffic, police control",0
+64,"large road, police control, few people move",0
+65,"police control, large road",0
+66,normal,0
+67,"police control, normal",0
+68,"large road, police control",0
+69,"accident, fog, potholo",1
+70,"road construction, object on roadway, accident, potholo",1
+71,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+72,"major event, monor accident, small traffic jam, flodded",1
+73,"medium traffic jam, normal",0
+74,"good traffic, huge traffic jam, police control",0
+75,normal,0
+76,"flooded road, potholo, traffic jam",1
+77,"flooding, potholo, bus route, police control",1
+78,normal,0
+79,"bus road, street vendors, slowdowns, traffic jam, small road",1
+80,"good road have traffic police, police control, good traffic",0
+81,"police control, good traffic",0
+82,"small road, flooding, traffic jam",1
+83,other,0
+84,"encroachung on the side, have childrens, near school district, accident",1
+85,"someone is going in the opposite direction, asynchronous infrastructure",1
+86,"the route with many pedestrians, encroaching on the sidewalk",1
+87,"near university, traffic jam, accident, flooded",1
+88,"few people move, normal, large road",0
+89,"good traffic, police control",0
+90,"large road, police control, few people move",0
+91,"police control, large road",0
+92,normal,0
+93,"police control, normal",0
+94,"large road, police control",0
+95,"accident, fog, potholo",1
+96,"road construction, object on roadway, accident, potholo",1
+97,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+98,"major event, monor accident, small traffic jam, flodded",1
+99,"medium traffic jam, normal",0
+100,"good traffic, huge traffic jam, police control",0
+101,normal,0
+102,"flooded road, potholo, traffic jam",1
+103,"flooding, potholo, bus route, police control",1
+104,normal,0
+105,"the route with many pedestrians, encroaching on the sidewalk",1
+106,"near university, traffic jam, accident, flooded",1
+107,"few people move, normal, large road",0
+108,"good traffic, police control",0
+109,"large road, police control, few people move",0
+110,"police control, large road",0
+111,normal,0
+112,"police control, normal",0
+113,"large road, police control",0
+114,"accident, fog, potholo",1
+115,"road construction, object on roadway, accident, potholo",1
+116,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+117,"major event, monor accident, small traffic jam, flodded",1
+118,"medium traffic jam, normal",0
+119,"good traffic, huge traffic jam, police control",0
+120,normal,0
+121,"flooded road, potholo, traffic jam",1
+122,"flooding, potholo, bus route, police control",1
+123,normal,0
+124,"bus road, street vendors, slowdowns, traffic jam, small road",1
+125,"good road have traffic police, police control, good traffic",0
+126,"police control, good traffic",0
+127,"small road, flooding, traffic jam",1
+128,other,0
+129,"encroachung on the side, have childrens, near school district, accident",1
+130,"someone is going in the opposite direction, asynchronous infrastructure",1
+131,"the route with many pedestrians, encroaching on the sidewalk",1
+132,"near university, traffic jam, accident, flooded",1
+133,"few people move, normal, large road",0
+134,"good traffic, police control",0
+135,"large road, police control, few people move",0
+136,"police control, large road",0
+137,normal,0
+138,"police control, normal",0
+139,"large road, police control",0
+140,"accident, fog, potholo",1
+141,"road construction, object on roadway, accident, potholo",1
+142,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+143,"major event, monor accident, small traffic jam, flodded",1
+144,"medium traffic jam, normal",0
+145,"good traffic, huge traffic jam, police control",0
+146,normal,0
+147,"flooded road, potholo, traffic jam",1
+148,"flooding, potholo, bus route, police control",1
+149,normal,0
+150,"bus road, street vendors, slowdowns, traffic jam, small road",1
+151,"good road have traffic police, police control, good traffic",0
+152,"police control, good traffic",0
+153,"small road, flooding, traffic jam",1
+154,other,0
+155,"encroachung on the side, have childrens, near school district, accident",1
+156,"someone is going in the opposite direction, asynchronous infrastructure",1
+157,"the route with many pedestrians, encroaching on the sidewalk",1
+158,"near university, traffic jam, accident, flooded",1
+159,"few people move, normal, large road",0
+160,"good traffic, police control",0
+161,"large road, police control, few people move",0
+162,"police control, large road",0
+163,normal,0
+164,"police control, normal",0
+165,"large road, police control",0
+166,"accident, fog, potholo",1
+167,"road construction, object on roadway, accident, potholo",1
+168,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+169,"major event, monor accident, small traffic jam, flodded",1
+170,"medium traffic jam, normal",0
+171,"good traffic, huge traffic jam, police control",0
+172,normal,0
+173,"flooded road, potholo, traffic jam",1
+174,"flooding, potholo, bus route, police control",1
+175,"flooded road, potholo, traffic jam",1
+176,"flooding, potholo, bus route, police control",1
+177,normal,0
+178,"bus road, street vendors, slowdowns, traffic jam, small road",1
+179,"good road have traffic police, police control, good traffic",0
+180,"police control, good traffic",0
+181,"small road, flooding, traffic jam",1
+182,other,0
+183,"encroachung on the side, have childrens, near school district, accident",1
+184,"someone is going in the opposite direction, asynchronous infrastructure",1
+185,"the route with many pedestrians, encroaching on the sidewalk",1
+186,"near university, traffic jam, accident, flooded",1
+187,"few people move, normal, large road",0
+188,"good traffic, police control",0
+189,"large road, police control, few people move",0
+190,"police control, large road",0
+191,normal,0
+192,"police control, normal",0
+193,"large road, police control",0
+194,"accident, fog, potholo",1
+195,"road construction, object on roadway, accident, potholo",1
+196,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+197,"major event, monor accident, small traffic jam, flodded",1
+198,"medium traffic jam, normal",0
+199,"good traffic, huge traffic jam, police control",0
+200,normal,0
+201,"flooded road, potholo, traffic jam",1
+202,"flooding, potholo, bus route, police control",1
+203,normal,0
+204,"the route with many pedestrians, encroaching on the sidewalk",1
+205,"near university, traffic jam, accident, flooded",1
+206,"few people move, normal, large road",0
+207,"good traffic, police control",0
+208,"large road, police control, few people move",0
+209,"police control, large road",0
+210,normal,0
+211,"police control, normal",0
+212,"large road, police control",0
+213,"accident, fog, potholo",1
+214,"road construction, object on roadway, accident, potholo",1
+215,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+216,"major event, monor accident, small traffic jam, flodded",1
+217,"medium traffic jam, normal",0
+218,"good traffic, huge traffic jam, police control",0
+219,normal,0
+220,"flooded road, potholo, traffic jam",1
+221,"flooding, potholo, bus route, police control",1
+222,normal,0
+223,"bus road, street vendors, slowdowns, traffic jam, small road",1
+224,"good road have traffic police, police control, good traffic",0
+225,"police control, good traffic",0
+226,"small road, flooding, traffic jam",1
+227,other,0
+228,"encroachung on the side, have childrens, near school district, accident",1
+229,"someone is going in the opposite direction, asynchronous infrastructure",1
+230,"the route with many pedestrians, encroaching on the sidewalk",1
+231,"near university, traffic jam, accident, flooded",1
+232,"few people move, normal, large road",0
+233,"good traffic, police control",0
+234,"large road, police control, few people move",0
+235,"police control, large road",0
+236,normal,0
+237,"police control, normal",0
+238,"large road, police control",0
+239,"accident, fog, potholo",1
+240,"road construction, object on roadway, accident, potholo",1
+241,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+242,"major event, monor accident, small traffic jam, flodded",1
+243,"medium traffic jam, normal",0
+244,"good traffic, huge traffic jam, police control",0
+245,normal,0
+246,"flooded road, potholo, traffic jam",1
+247,"flooding, potholo, bus route, police control",1
+248,normal,0
+249,"bus road, street vendors, slowdowns, traffic jam, small road",1
+250,"good road have traffic police, police control, good traffic",0
+251,"police control, good traffic",0
+252,"small road, flooding, traffic jam",1
+253,other,0
+254,"encroachung on the side, have childrens, near school district, accident",1
+255,"someone is going in the opposite direction, asynchronous infrastructure",1
+256,"the route with many pedestrians, encroaching on the sidewalk",1
+257,"near university, traffic jam, accident, flooded",1
+258,"few people move, normal, large road",0
+259,"good traffic, police control",0
+260,"large road, police control, few people move",0
+261,"police control, large road",0
+262,normal,0
+263,"police control, normal",0
+264,"large road, police control",0
+265,"accident, fog, potholo",1
+266,"road construction, object on roadway, accident, potholo",1
+267,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+268,"major event, monor accident, small traffic jam, flodded",1
+269,"medium traffic jam, normal",0
+270,"good traffic, huge traffic jam, police control",0
+271,normal,0
+272,"flooded road, potholo, traffic jam",1
+273,"flooding, potholo, bus route, police control",1
+274,"large road, police control, few people move",0
+275,"police control, large road",0
+276,normal,0
+277,"police control, normal",0
+278,"large road, police control",0
+279,"accident, fog, potholo",1
+280,"road construction, object on roadway, accident, potholo",1
+281,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+282,"major event, monor accident, small traffic jam, flodded",1
+283,"medium traffic jam, normal",0
+284,"good traffic, huge traffic jam, police control",0
+285,normal,0
+286,"flooded road, potholo, traffic jam",1
+287,"flooding, potholo, bus route, police control",1
+288,normal,0
+289,"bus road, street vendors, slowdowns, traffic jam, small road",1
+290,"good road have traffic police, police control, good traffic",0
+291,"police control, good traffic",0
+292,"small road, flooding, traffic jam",1
+293,other,0
+294,"encroachung on the side, have childrens, near school district, accident",1
+295,"someone is going in the opposite direction, asynchronous infrastructure",1
+296,"the route with many pedestrians, encroaching on the sidewalk",1
+297,"near university, traffic jam, accident, flooded",1
+298,"few people move, normal, large road",0
+299,"good traffic, police control",0
+300,"large road, police control, few people move",0
+301,"police control, large road",0
+302,normal,0
+303,"police control, normal",0
+304,"large road, police control",0
+305,"accident, fog, potholo",1
+306,"road construction, object on roadway, accident, potholo",1
+307,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+308,"major event, monor accident, small traffic jam, flodded",1
+309,"medium traffic jam, normal",0
+310,"good traffic, huge traffic jam, police control",0
+311,normal,0
+312,"flooded road, potholo, traffic jam",1
+313,"flooding, potholo, bus route, police control",1
+314,"flooded road, potholo, traffic jam",1
+315,"flooding, potholo, bus route, police control",1
+316,normal,0
+317,"bus road, street vendors, slowdowns, traffic jam, small road",1
+318,"good road have traffic police, police control, good traffic",0
+319,"police control, good traffic",0
+320,"small road, flooding, traffic jam",1
+321,other,0
+322,"encroachung on the side, have childrens, near school district, accident",1
+323,"someone is going in the opposite direction, asynchronous infrastructure",1
+324,"the route with many pedestrians, encroaching on the sidewalk",1
+325,"near university, traffic jam, accident, flooded",1
+326,"few people move, normal, large road",0
+327,"good traffic, police control",0
+328,"large road, police control, few people move",0
+329,"police control, large road",0
+330,normal,0
+331,"police control, normal",0
+332,"large road, police control",0
+333,"accident, fog, potholo",1
+334,"road construction, object on roadway, accident, potholo",1
+335,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+336,"major event, monor accident, small traffic jam, flodded",1
+337,"medium traffic jam, normal",0
+338,"good traffic, huge traffic jam, police control",0
+339,normal,0
+340,"flooded road, potholo, traffic jam",1
+341,"flooding, potholo, bus route, police control",1
+342,normal,0
+343,"the route with many pedestrians, encroaching on the sidewalk",1
+344,"near university, traffic jam, accident, flooded",1
+345,"few people move, normal, large road",0
+346,"good traffic, police control",0
+347,"large road, police control, few people move",0
+348,"police control, large road",0
+349,normal,0
+350,"police control, normal",0
+351,"large road, police control",0
+352,"accident, fog, potholo",1
+353,"road construction, object on roadway, accident, potholo",1
+354,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+355,"major event, monor accident, small traffic jam, flodded",1
+356,"medium traffic jam, normal",0
+357,"good traffic, huge traffic jam, police control",0
+358,normal,0
+359,"flooded road, potholo, traffic jam",1
+360,"flooding, potholo, bus route, police control",1
+361,normal,0
+362,"bus road, street vendors, slowdowns, traffic jam, small road",1
+363,"good road have traffic police, police control, good traffic",0
+364,"police control, good traffic",0
+365,"small road, flooding, traffic jam",1
+366,other,0
+367,"encroachung on the side, have childrens, near school district, accident",1
+368,"someone is going in the opposite direction, asynchronous infrastructure",1
+369,"the route with many pedestrians, encroaching on the sidewalk",1
+370,"near university, traffic jam, accident, flooded",1
+371,"few people move, normal, large road",0
+372,"good traffic, police control",0
+373,"large road, police control, few people move",0
+374,"police control, large road",0
+375,normal,0
+376,"police control, normal",0
+377,"large road, police control",0
+378,"accident, fog, potholo",1
+379,"road construction, object on roadway, accident, potholo",1
+380,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+381,"major event, monor accident, small traffic jam, flodded",1
+382,"medium traffic jam, normal",0
+383,"good traffic, huge traffic jam, police control",0
+384,normal,0
+385,"flooded road, potholo, traffic jam",1
+386,"flooding, potholo, bus route, police control",1
+387,normal,0
+388,"bus road, street vendors, slowdowns, traffic jam, small road",1
+389,"good road have traffic police, police control, good traffic",0
+390,"police control, good traffic",0
+391,"small road, flooding, traffic jam",1
+392,other,0
+393,"encroachung on the side, have childrens, near school district, accident",1
+394,"someone is going in the opposite direction, asynchronous infrastructure",1
+395,"the route with many pedestrians, encroaching on the sidewalk",1
+396,"near university, traffic jam, accident, flooded",1
+397,"few people move, normal, large road",0
+398,"good traffic, police control",0
+399,"large road, police control, few people move",0
+400,"police control, large road",0
+401,normal,0
+402,"police control, normal",0
+403,"large road, police control",0
+404,"accident, fog, potholo",1
+405,"road construction, object on roadway, accident, potholo",1
+406,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+407,"major event, monor accident, small traffic jam, flodded",1
+408,"medium traffic jam, normal",0
+409,"good traffic, huge traffic jam, police control",0
+410,normal,0
+411,"flooded road, potholo, traffic jam",1
+412,"flooding, potholo, bus route, police control",1
+413,"small road, flooding, traffic jam",1
+414,other,0
+415,"encroachung on the side, have childrens, near school district, accident",1
+416,"someone is going in the opposite direction, asynchronous infrastructure",1
+417,"the route with many pedestrians, encroaching on the sidewalk",1
+418,"near university, traffic jam, accident, flooded",1
+419,"few people move, normal, large road",0
+420,"good traffic, police control",0
+421,"large road, police control, few people move",0
+422,"police control, large road",0
+423,normal,0
+424,"police control, normal",0
+425,"large road, police control",0
+426,"accident, fog, potholo",1
+427,"road construction, object on roadway, accident, potholo",1
+428,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+429,"major event, monor accident, small traffic jam, flodded",1
+430,"medium traffic jam, normal",0
+431,"good traffic, huge traffic jam, police control",0
+432,normal,0
+433,"flooded road, potholo, traffic jam",1
+434,"flooding, potholo, bus route, police control",1
+435,"large road, police control, few people move",0
+436,"police control, large road",0
+437,normal,0
+438,"police control, normal",0
+439,"large road, police control",0
+440,"accident, fog, potholo",1
+441,"road construction, object on roadway, accident, potholo",1
+442,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+443,"major event, monor accident, small traffic jam, flodded",1
+444,"medium traffic jam, normal",0
+445,"good traffic, huge traffic jam, police control",0
+446,normal,0
+447,"flooded road, potholo, traffic jam",1
+448,"flooding, potholo, bus route, police control",1
+449,normal,0
+450,"bus road, street vendors, slowdowns, traffic jam, small road",1
+451,"good road have traffic police, police control, good traffic",0
+452,"police control, good traffic",0
+453,"small road, flooding, traffic jam",1
+454,other,0
+455,"encroachung on the side, have childrens, near school district, accident",1
+456,"someone is going in the opposite direction, asynchronous infrastructure",1
+457,"the route with many pedestrians, encroaching on the sidewalk",1
+458,"near university, traffic jam, accident, flooded",1
+459,"few people move, normal, large road",0
+460,"good traffic, police control",0
+461,"large road, police control, few people move",0
+462,"police control, large road",0
+463,normal,0
+464,"police control, normal",0
+465,"large road, police control",0
+466,"accident, fog, potholo",1
+467,"road construction, object on roadway, accident, potholo",1
+468,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+469,"major event, monor accident, small traffic jam, flodded",1
+470,"medium traffic jam, normal",0
+471,"good traffic, huge traffic jam, police control",0
+472,normal,0
+473,"flooded road, potholo, traffic jam",1
+474,"flooding, potholo, bus route, police control",1
+475,"flooded road, potholo, traffic jam",1
+476,"flooding, potholo, bus route, police control",1
+477,normal,0
+478,"bus road, street vendors, slowdowns, traffic jam, small road",1
+479,"good road have traffic police, police control, good traffic",0
+480,"police control, good traffic",0
+481,"small road, flooding, traffic jam",1
+482,other,0
+483,"encroachung on the side, have childrens, near school district, accident",1
+484,"someone is going in the opposite direction, asynchronous infrastructure",1
+485,"the route with many pedestrians, encroaching on the sidewalk",1
+486,"near university, traffic jam, accident, flooded",1
+487,"few people move, normal, large road",0
+488,"good traffic, police control",0
+489,"large road, police control, few people move",0
+490,"police control, large road",0
+491,normal,0
+492,"police control, normal",0
+493,"large road, police control",0
+494,"accident, fog, potholo",1
+495,"road construction, object on roadway, accident, potholo",1
+496,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+497,"major event, monor accident, small traffic jam, flodded",1
+498,"medium traffic jam, normal",0
+499,"good traffic, huge traffic jam, police control",0
+500,normal,0
+501,"flooded road, potholo, traffic jam",1
+502,"flooding, potholo, bus route, police control",1
+503,normal,0
+504,"the route with many pedestrians, encroaching on the sidewalk",1
+505,"near university, traffic jam, accident, flooded",1
+506,"few people move, normal, large road",0
+507,"good traffic, police control",0
+508,"large road, police control, few people move",0
+509,"police control, large road",0
+510,normal,0
+511,"police control, normal",0
+512,"large road, police control",0
+513,"accident, fog, potholo",1
+514,"road construction, object on roadway, accident, potholo",1
+515,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+516,"major event, monor accident, small traffic jam, flodded",1
+517,"medium traffic jam, normal",0
+518,"good traffic, huge traffic jam, police control",0
+519,normal,0
+520,"flooded road, potholo, traffic jam",1
+521,"flooding, potholo, bus route, police control",1
+522,normal,0
+523,"bus road, street vendors, slowdowns, traffic jam, small road",1
+524,"good road have traffic police, police control, good traffic",0
+525,"police control, good traffic",0
+526,"small road, flooding, traffic jam",1
+527,other,0
+528,"encroachung on the side, have childrens, near school district, accident",1
+529,"someone is going in the opposite direction, asynchronous infrastructure",1
+530,"the route with many pedestrians, encroaching on the sidewalk",1
+531,"near university, traffic jam, accident, flooded",1
+532,"few people move, normal, large road",0
+533,"good traffic, police control",0
+534,"large road, police control, few people move",0
+535,"police control, large road",0
+536,normal,0
+537,"police control, normal",0
+538,"large road, police control",0
+539,"accident, fog, potholo",1
+540,"road construction, object on roadway, accident, potholo",1
+541,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+542,"major event, monor accident, small traffic jam, flodded",1
+543,"medium traffic jam, normal",0
+544,"good traffic, huge traffic jam, police control",0
+545,normal,0
+546,"flooded road, potholo, traffic jam",1
+547,"flooding, potholo, bus route, police control",1
+548,normal,0
+549,"bus road, street vendors, slowdowns, traffic jam, small road",1
+550,"good road have traffic police, police control, good traffic",0
+551,"police control, good traffic",0
+552,"small road, flooding, traffic jam",1
+553,other,0
+554,"encroachung on the side, have childrens, near school district, accident",1
+555,"someone is going in the opposite direction, asynchronous infrastructure",1
+556,"the route with many pedestrians, encroaching on the sidewalk",1
+557,"near university, traffic jam, accident, flooded",1
+558,"few people move, normal, large road",0
+559,"good traffic, police control",0
+560,"large road, police control, few people move",0
+561,"police control, large road",0
+562,normal,0
+563,"police control, normal",0
+564,"large road, police control",0
+565,"accident, fog, potholo",1
+566,"road construction, object on roadway, accident, potholo",1
+567,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+568,"major event, monor accident, small traffic jam, flodded",1
+569,"medium traffic jam, normal",0
+570,"good traffic, huge traffic jam, police control",0
+571,normal,0
+572,"flooded road, potholo, traffic jam",1
+573,"flooding, potholo, bus route, police control",1
+574,normal,0
+575,"police control, normal",0
+576,"large road, police control",0
+577,"accident, fog, potholo",1
+578,"road construction, object on roadway, accident, potholo",1
+579,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+580,"major event, monor accident, small traffic jam, flodded",1
+581,"medium traffic jam, normal",0
+582,"good traffic, huge traffic jam, police control",0
+583,normal,0
+584,"flooded road, potholo, traffic jam",1
+585,"flooding, potholo, bus route, police control",1
+586,normal,0
+587,"bus road, street vendors, slowdowns, traffic jam, small road",1
+588,"good road have traffic police, police control, good traffic",0
+589,"police control, good traffic",0
+590,"small road, flooding, traffic jam",1
+591,other,0
+592,"encroachung on the side, have childrens, near school district, accident",1
+593,"someone is going in the opposite direction, asynchronous infrastructure",1
+594,"the route with many pedestrians, encroaching on the sidewalk",1
+595,"near university, traffic jam, accident, flooded",1
+596,"few people move, normal, large road",0
+597,"good traffic, police control",0
+598,"large road, police control, few people move",0
+599,"police control, large road",0
+600,normal,0
+601,"police control, normal",0
+602,"large road, police control",0
+603,"accident, fog, potholo",1
+604,"road construction, object on roadway, accident, potholo",1
+605,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+606,"major event, monor accident, small traffic jam, flodded",1
+607,"medium traffic jam, normal",0
+608,"good traffic, huge traffic jam, police control",0
+609,normal,0
+610,"flooded road, potholo, traffic jam",1
+611,"flooding, potholo, bus route, police control",1
+612,"flooded road, potholo, traffic jam",1
+613,"flooding, potholo, bus route, police control",1
+614,normal,0
+615,"bus road, street vendors, slowdowns, traffic jam, small road",1
+616,"good road have traffic police, police control, good traffic",0
+617,"police control, good traffic",0
+618,"small road, flooding, traffic jam",1
+619,other,0
+620,"encroachung on the side, have childrens, near school district, accident",1
+621,"someone is going in the opposite direction, asynchronous infrastructure",1
+622,"the route with many pedestrians, encroaching on the sidewalk",1
+623,"near university, traffic jam, accident, flooded",1
+624,"few people move, normal, large road",0
+625,"good traffic, police control",0
+626,"large road, police control, few people move",0
+627,"police control, large road",0
+628,normal,0
+629,"police control, normal",0
+630,"large road, police control",0
+631,"accident, fog, potholo",1
+632,"road construction, object on roadway, accident, potholo",1
+633,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+634,"major event, monor accident, small traffic jam, flodded",1
+635,"medium traffic jam, normal",0
+636,"good traffic, huge traffic jam, police control",0
+637,normal,0
+638,"flooded road, potholo, traffic jam",1
+639,"flooding, potholo, bus route, police control",1
+640,normal,0
+641,"the route with many pedestrians, encroaching on the sidewalk",1
+642,"near university, traffic jam, accident, flooded",1
+643,"few people move, normal, large road",0
+644,"good traffic, police control",0
+645,"large road, police control, few people move",0
+646,"police control, large road",0
+647,normal,0
+648,"police control, normal",0
+649,"large road, police control",0
+650,"accident, fog, potholo",1
+651,"road construction, object on roadway, accident, potholo",1
+652,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+653,"major event, monor accident, small traffic jam, flodded",1
+654,"medium traffic jam, normal",0
+655,"good traffic, huge traffic jam, police control",0
+656,normal,0
+657,"flooded road, potholo, traffic jam",1
+658,"flooding, potholo, bus route, police control",1
+659,normal,0
+660,"bus road, street vendors, slowdowns, traffic jam, small road",1
+661,"good road have traffic police, police control, good traffic",0
+662,"police control, good traffic",0
+663,"small road, flooding, traffic jam",1
+664,other,0
+665,"encroachung on the side, have childrens, near school district, accident",1
+666,"someone is going in the opposite direction, asynchronous infrastructure",1
+667,"the route with many pedestrians, encroaching on the sidewalk",1
+668,"near university, traffic jam, accident, flooded",1
+669,"few people move, normal, large road",0
+670,"good traffic, police control",0
+671,"large road, police control, few people move",0
+672,"police control, large road",0
+673,normal,0
+674,"police control, normal",0
+675,"large road, police control",0
+676,"accident, fog, potholo",1
+677,"road construction, object on roadway, accident, potholo",1
+678,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+679,"major event, monor accident, small traffic jam, flodded",1
+680,"medium traffic jam, normal",0
+681,"good traffic, huge traffic jam, police control",0
+682,normal,0
+683,"flooded road, potholo, traffic jam",1
+684,"flooding, potholo, bus route, police control",1
+685,normal,0
+686,"bus road, street vendors, slowdowns, traffic jam, small road",1
+687,"good road have traffic police, police control, good traffic",0
+688,"police control, good traffic",0
+689,"small road, flooding, traffic jam",1
+690,other,0
+691,"encroachung on the side, have childrens, near school district, accident",1
+692,"someone is going in the opposite direction, asynchronous infrastructure",1
+693,"the route with many pedestrians, encroaching on the sidewalk",1
+694,"near university, traffic jam, accident, flooded",1
+695,"few people move, normal, large road",0
+696,"good traffic, police control",0
+697,"large road, police control, few people move",0
+698,"police control, large road",0
+699,normal,0
+700,"police control, normal",0
+701,"large road, police control",0
+702,"accident, fog, potholo",1
+703,"road construction, object on roadway, accident, potholo",1
+704,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+705,"major event, monor accident, small traffic jam, flodded",1
+706,"medium traffic jam, normal",0
+707,"good traffic, huge traffic jam, police control",0
+708,normal,0
+709,"flooded road, potholo, traffic jam",1
+710,"flooding, potholo, bus route, police control",1
+711,"small road, flooding, traffic jam",1
+712,other,0
+713,"encroachung on the side, have childrens, near school district, accident",1
+714,"someone is going in the opposite direction, asynchronous infrastructure",1
+715,"the route with many pedestrians, encroaching on the sidewalk",1
+716,"near university, traffic jam, accident, flooded",1
+717,"few people move, normal, large road",0
+718,"good traffic, police control",0
+719,"large road, police control, few people move",0
+720,"police control, large road",0
+721,normal,0
+722,"police control, normal",0
+723,"large road, police control",0
+724,"accident, fog, potholo",1
+725,"road construction, object on roadway, accident, potholo",1
+726,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+727,"major event, monor accident, small traffic jam, flodded",1
+728,"medium traffic jam, normal",0
+729,"good traffic, huge traffic jam, police control",0
+730,normal,0
+731,"flooded road, potholo, traffic jam",1
+732,"flooding, potholo, bus route, police control",1
+733,"large road, police control, few people move",0
+734,"police control, large road",0
+735,normal,0
+736,"police control, normal",0
+737,"large road, police control",0
+738,"accident, fog, potholo",1
+739,"road construction, object on roadway, accident, potholo",1
+740,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+741,"major event, monor accident, small traffic jam, flodded",1
+742,"medium traffic jam, normal",0
+743,"good traffic, huge traffic jam, police control",0
+744,normal,0
+745,"flooded road, potholo, traffic jam",1
+746,"flooding, potholo, bus route, police control",1
+747,normal,0
+748,"bus road, street vendors, slowdowns, traffic jam, small road",1
+749,"good road have traffic police, police control, good traffic",0
+750,"police control, good traffic",0
+751,"small road, flooding, traffic jam",1
+752,other,0
+753,"encroachung on the side, have childrens, near school district, accident",1
+754,"someone is going in the opposite direction, asynchronous infrastructure",1
+755,"the route with many pedestrians, encroaching on the sidewalk",1
+756,"near university, traffic jam, accident, flooded",1
+757,"few people move, normal, large road",0
+758,"good traffic, police control",0
+759,"large road, police control, few people move",0
+760,"police control, large road",0
+761,normal,0
+762,"police control, normal",0
+763,"large road, police control",0
+764,"accident, fog, potholo",1
+765,"road construction, object on roadway, accident, potholo",1
+766,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+767,"major event, monor accident, small traffic jam, flodded",1
+768,"medium traffic jam, normal",0
+769,"good traffic, huge traffic jam, police control",0
+770,normal,0
+771,"flooded road, potholo, traffic jam",1
+772,"flooding, potholo, bus route, police control",1
+773,"flooded road, potholo, traffic jam",1
+774,"flooding, potholo, bus route, police control",1
+775,normal,0
+776,"bus road, street vendors, slowdowns, traffic jam, small road",1
+777,"good road have traffic police, police control, good traffic",0
+778,"police control, good traffic",0
+779,"small road, flooding, traffic jam",1
+780,other,0
+781,"encroachung on the side, have childrens, near school district, accident",1
+782,"someone is going in the opposite direction, asynchronous infrastructure",1
+783,"the route with many pedestrians, encroaching on the sidewalk",1
+784,"near university, traffic jam, accident, flooded",1
+785,"few people move, normal, large road",0
+786,"good traffic, police control",0
+787,"large road, police control, few people move",0
+788,"police control, large road",0
+789,normal,0
+790,"police control, normal",0
+791,"large road, police control",0
+792,"accident, fog, potholo",1
+793,"road construction, object on roadway, accident, potholo",1
+794,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+795,"major event, monor accident, small traffic jam, flodded",1
+796,"medium traffic jam, normal",0
+797,"good traffic, huge traffic jam, police control",0
+798,normal,0
+799,"flooded road, potholo, traffic jam",1
+800,"flooding, potholo, bus route, police control",1
+801,normal,0
+802,"the route with many pedestrians, encroaching on the sidewalk",1
+803,"near university, traffic jam, accident, flooded",1
+804,"few people move, normal, large road",0
+805,"good traffic, police control",0
+806,"large road, police control, few people move",0
+807,"police control, large road",0
+808,normal,0
+809,"police control, normal",0
+810,"large road, police control",0
+811,"accident, fog, potholo",1
+812,"road construction, object on roadway, accident, potholo",1
+813,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+814,"major event, monor accident, small traffic jam, flodded",1
+815,"medium traffic jam, normal",0
+816,"good traffic, huge traffic jam, police control",0
+817,normal,0
+818,"flooded road, potholo, traffic jam",1
+819,"flooding, potholo, bus route, police control",1
+820,normal,0
+821,"bus road, street vendors, slowdowns, traffic jam, small road",1
+822,"good road have traffic police, police control, good traffic",0
+823,"police control, good traffic",0
+824,"small road, flooding, traffic jam",1
+825,other,0
+826,"encroachung on the side, have childrens, near school district, accident",1
+827,"someone is going in the opposite direction, asynchronous infrastructure",1
+828,"the route with many pedestrians, encroaching on the sidewalk",1
+829,"near university, traffic jam, accident, flooded",1
+830,"few people move, normal, large road",0
+831,"good traffic, police control",0
+832,"large road, police control, few people move",0
+833,"police control, large road",0
+834,normal,0
+835,"police control, normal",0
+836,"large road, police control",0
+837,"accident, fog, potholo",1
+838,"road construction, object on roadway, accident, potholo",1
+839,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+840,"major event, monor accident, small traffic jam, flodded",1
+841,"medium traffic jam, normal",0
+842,"good traffic, huge traffic jam, police control",0
+843,normal,0
+844,"flooded road, potholo, traffic jam",1
+845,"flooding, potholo, bus route, police control",1
+846,normal,0
+847,"bus road, street vendors, slowdowns, traffic jam, small road",1
+848,"good road have traffic police, police control, good traffic",0
+849,"police control, good traffic",0
+850,"small road, flooding, traffic jam",1
+851,other,0
+852,"encroachung on the side, have childrens, near school district, accident",1
+853,"someone is going in the opposite direction, asynchronous infrastructure",1
+854,"the route with many pedestrians, encroaching on the sidewalk",1
+855,"near university, traffic jam, accident, flooded",1
+856,"few people move, normal, large road",0
+857,"good traffic, police control",0
+858,"large road, police control, few people move",0
+859,"police control, large road",0
+860,normal,0
+861,"police control, normal",0
+862,"large road, police control",0
+863,"accident, fog, potholo",1
+864,"road construction, object on roadway, accident, potholo",1
+865,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+866,"major event, monor accident, small traffic jam, flodded",1
+867,"medium traffic jam, normal",0
+868,"good traffic, huge traffic jam, police control",0
+869,normal,0
+870,"flooded road, potholo, traffic jam",1
+871,"flooding, potholo, bus route, police control",1
+872,normal,0
+873,"the route with many pedestrians, encroaching on the sidewalk",1
+874,"near university, traffic jam, accident, flooded",1
+875,"few people move, normal, large road",0
+876,"good traffic, police control",0
+877,"large road, police control, few people move",0
+878,"police control, large road",0
+879,normal,0
+880,"police control, normal",0
+881,"large road, police control",0
+882,"accident, fog, potholo",1
+883,"road construction, object on roadway, accident, potholo",1
+884,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+885,"major event, monor accident, small traffic jam, flodded",1
+886,"medium traffic jam, normal",0
+887,"good traffic, huge traffic jam, police control",0
+888,normal,0
+889,"flooded road, potholo, traffic jam",1
+890,"flooding, potholo, bus route, police control",1
+891,normal,0
+892,"bus road, street vendors, slowdowns, traffic jam, small road",1
+893,"good road have traffic police, police control, good traffic",0
+894,"police control, good traffic",0
+895,"small road, flooding, traffic jam",1
+896,other,0
+897,"encroachung on the side, have childrens, near school district, accident",1
+898,"someone is going in the opposite direction, asynchronous infrastructure",1
+899,"the route with many pedestrians, encroaching on the sidewalk",1
+900,"near university, traffic jam, accident, flooded",1
+901,"few people move, normal, large road",0
+902,"good traffic, police control",0
+903,"large road, police control, few people move",0
+904,"police control, large road",0
+905,normal,0
+906,"police control, normal",0
+907,"large road, police control",0
+908,"accident, fog, potholo",1
+909,"road construction, object on roadway, accident, potholo",1
+910,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+911,"major event, monor accident, small traffic jam, flodded",1
+912,"medium traffic jam, normal",0
+913,"good traffic, huge traffic jam, police control",0
+914,normal,0
+915,"flooded road, potholo, traffic jam",1
+916,"flooding, potholo, bus route, police control",1
+917,normal,0
+918,"bus road, street vendors, slowdowns, traffic jam, small road",1
+919,"good road have traffic police, police control, good traffic",0
+920,"police control, good traffic",0
+921,"small road, flooding, traffic jam",1
+922,other,0
+923,"encroachung on the side, have childrens, near school district, accident",1
+924,"someone is going in the opposite direction, asynchronous infrastructure",1
+925,"the route with many pedestrians, encroaching on the sidewalk",1
+926,"near university, traffic jam, accident, flooded",1
+927,"few people move, normal, large road",0
+928,"good traffic, police control",0
+929,"large road, police control, few people move",0
+930,"police control, large road",0
+931,normal,0
+932,"police control, normal",0
+933,"large road, police control",0
+934,"accident, fog, potholo",1
+935,"road construction, object on roadway, accident, potholo",1
+936,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+937,"major event, monor accident, small traffic jam, flodded",1
+938,"medium traffic jam, normal",0
+939,"good traffic, huge traffic jam, police control",0
+940,normal,0
+941,"flooded road, potholo, traffic jam",1
+942,"flooding, potholo, bus route, police control",1
+943,normal,0
+944,"police control, normal",0
+945,"large road, police control",0
+946,"accident, fog, potholo",1
+947,"road construction, object on roadway, accident, potholo",1
+948,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+949,"major event, monor accident, small traffic jam, flodded",1
+950,"medium traffic jam, normal",0
+951,"good traffic, huge traffic jam, police control",0
+952,normal,0
+953,"flooded road, potholo, traffic jam",1
+954,"flooding, potholo, bus route, police control",1
+955,normal,0
+956,"bus road, street vendors, slowdowns, traffic jam, small road",1
+957,"good road have traffic police, police control, good traffic",0
+958,"police control, good traffic",0
+959,"small road, flooding, traffic jam",1
+960,other,0
+961,"encroachung on the side, have childrens, near school district, accident",1
+962,"someone is going in the opposite direction, asynchronous infrastructure",1
+963,"the route with many pedestrians, encroaching on the sidewalk",1
+964,"near university, traffic jam, accident, flooded",1
+965,"few people move, normal, large road",0
+966,"good traffic, police control",0
+967,"large road, police control, few people move",0
+968,"police control, large road",0
+969,normal,0
+970,"police control, normal",0
+971,"large road, police control",0
+972,"accident, fog, potholo",1
+973,"road construction, object on roadway, accident, potholo",1
+974,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+975,"major event, monor accident, small traffic jam, flodded",1
+976,"medium traffic jam, normal",0
+977,"good traffic, huge traffic jam, police control",0
+978,normal,0
+979,"flooded road, potholo, traffic jam",1
+980,"flooding, potholo, bus route, police control",1
+981,"flooded road, potholo, traffic jam",1
+982,"flooding, potholo, bus route, police control",1
+983,normal,0
+984,"bus road, street vendors, slowdowns, traffic jam, small road",1
+985,"good road have traffic police, police control, good traffic",0
+986,"police control, good traffic",0
+987,"small road, flooding, traffic jam",1
+988,other,0
+989,"encroachung on the side, have childrens, near school district, accident",1
+990,"someone is going in the opposite direction, asynchronous infrastructure",1
+991,"the route with many pedestrians, encroaching on the sidewalk",1
+992,"near university, traffic jam, accident, flooded",1
+993,"few people move, normal, large road",0
+994,"good traffic, police control",0
+995,"large road, police control, few people move",0
+996,"police control, large road",0
+997,normal,0
+998,"police control, normal",0
+999,"large road, police control",0
+1000,"accident, fog, potholo",1
+1001,"road construction, object on roadway, accident, potholo",1
+1002,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1003,"major event, monor accident, small traffic jam, flodded",1
+1004,"medium traffic jam, normal",0
+1005,"good traffic, huge traffic jam, police control",0
+1006,normal,0
+1007,"flooded road, potholo, traffic jam",1
+1008,"flooding, potholo, bus route, police control",1
+1009,normal,0
+1010,"the route with many pedestrians, encroaching on the sidewalk",1
+1011,"near university, traffic jam, accident, flooded",1
+1012,"few people move, normal, large road",0
+1013,"good traffic, police control",0
+1014,"large road, police control, few people move",0
+1015,"police control, large road",0
+1016,normal,0
+1017,"police control, normal",0
+1018,"large road, police control",0
+1019,"accident, fog, potholo",1
+1020,"road construction, object on roadway, accident, potholo",1
+1021,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1022,"major event, monor accident, small traffic jam, flodded",1
+1023,"medium traffic jam, normal",0
+1024,"good traffic, huge traffic jam, police control",0
+1025,normal,0
+1026,"flooded road, potholo, traffic jam",1
+1027,"flooding, potholo, bus route, police control",1
+1028,normal,0
+1029,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1030,"good road have traffic police, police control, good traffic",0
+1031,"police control, good traffic",0
+1032,"small road, flooding, traffic jam",1
+1033,other,0
+1034,"encroachung on the side, have childrens, near school district, accident",1
+1035,"someone is going in the opposite direction, asynchronous infrastructure",1
+1036,"the route with many pedestrians, encroaching on the sidewalk",1
+1037,"near university, traffic jam, accident, flooded",1
+1038,"few people move, normal, large road",0
+1039,"good traffic, police control",0
+1040,"large road, police control, few people move",0
+1041,"police control, large road",0
+1042,normal,0
+1043,"police control, normal",0
+1044,"large road, police control",0
+1045,"accident, fog, potholo",1
+1046,"road construction, object on roadway, accident, potholo",1
+1047,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1048,"major event, monor accident, small traffic jam, flodded",1
+1049,"medium traffic jam, normal",0
+1050,"good traffic, huge traffic jam, police control",0
+1051,normal,0
+1052,"flooded road, potholo, traffic jam",1
+1053,"flooding, potholo, bus route, police control",1
+1054,normal,0
+1055,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1056,"good road have traffic police, police control, good traffic",0
+1057,"police control, good traffic",0
+1058,"small road, flooding, traffic jam",1
+1059,other,0
+1060,"encroachung on the side, have childrens, near school district, accident",1
+1061,"someone is going in the opposite direction, asynchronous infrastructure",1
+1062,"the route with many pedestrians, encroaching on the sidewalk",1
+1063,"near university, traffic jam, accident, flooded",1
+1064,"few people move, normal, large road",0
+1065,"good traffic, police control",0
+1066,"large road, police control, few people move",0
+1067,"police control, large road",0
+1068,normal,0
+1069,"police control, normal",0
+1070,"large road, police control",0
+1071,"accident, fog, potholo",1
+1072,"road construction, object on roadway, accident, potholo",1
+1073,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1074,"major event, monor accident, small traffic jam, flodded",1
+1075,"medium traffic jam, normal",0
+1076,"good traffic, huge traffic jam, police control",0
+1077,normal,0
+1078,"flooded road, potholo, traffic jam",1
+1079,"flooding, potholo, bus route, police control",1
+1080,"small road, flooding, traffic jam",1
+1081,other,0
+1082,"encroachung on the side, have childrens, near school district, accident",1
+1083,"someone is going in the opposite direction, asynchronous infrastructure",1
+1084,"the route with many pedestrians, encroaching on the sidewalk",1
+1085,"near university, traffic jam, accident, flooded",1
+1086,"few people move, normal, large road",0
+1087,"good traffic, police control",0
+1088,"large road, police control, few people move",0
+1089,"police control, large road",0
+1090,normal,0
+1091,"police control, normal",0
+1092,"large road, police control",0
+1093,"accident, fog, potholo",1
+1094,"road construction, object on roadway, accident, potholo",1
+1095,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1096,"major event, monor accident, small traffic jam, flodded",1
+1097,"medium traffic jam, normal",0
+1098,"good traffic, huge traffic jam, police control",0
+1099,normal,0
+1100,"flooded road, potholo, traffic jam",1
+1101,"flooding, potholo, bus route, police control",1
+1102,"large road, police control, few people move",0
+1103,"police control, large road",0
+1104,normal,0
+1105,"police control, normal",0
+1106,"large road, police control",0
+1107,"accident, fog, potholo",1
+1108,"road construction, object on roadway, accident, potholo",1
+1109,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1110,"major event, monor accident, small traffic jam, flodded",1
+1111,"medium traffic jam, normal",0
+1112,"good traffic, huge traffic jam, police control",0
+1113,normal,0
+1114,"flooded road, potholo, traffic jam",1
+1115,"flooding, potholo, bus route, police control",1
+1116,normal,0
+1117,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1118,"good road have traffic police, police control, good traffic",0
+1119,"police control, good traffic",0
+1120,"small road, flooding, traffic jam",1
+1121,other,0
+1122,"encroachung on the side, have childrens, near school district, accident",1
+1123,"someone is going in the opposite direction, asynchronous infrastructure",1
+1124,"the route with many pedestrians, encroaching on the sidewalk",1
+1125,"near university, traffic jam, accident, flooded",1
+1126,"few people move, normal, large road",0
+1127,"good traffic, police control",0
+1128,"large road, police control, few people move",0
+1129,"police control, large road",0
+1130,normal,0
+1131,"police control, normal",0
+1132,"large road, police control",0
+1133,"accident, fog, potholo",1
+1134,"road construction, object on roadway, accident, potholo",1
+1135,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1136,"major event, monor accident, small traffic jam, flodded",1
+1137,"medium traffic jam, normal",0
+1138,"good traffic, huge traffic jam, police control",0
+1139,normal,0
+1140,"flooded road, potholo, traffic jam",1
+1141,"flooding, potholo, bus route, police control",1
+1142,"flooded road, potholo, traffic jam",1
+1143,"flooding, potholo, bus route, police control",1
+1144,normal,0
+1145,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1146,"good road have traffic police, police control, good traffic",0
+1147,"police control, good traffic",0
+1148,"small road, flooding, traffic jam",1
+1149,other,0
+1150,"encroachung on the side, have childrens, near school district, accident",1
+1151,"someone is going in the opposite direction, asynchronous infrastructure",1
+1152,"the route with many pedestrians, encroaching on the sidewalk",1
+1153,"near university, traffic jam, accident, flooded",1
+1154,"few people move, normal, large road",0
+1155,"good traffic, police control",0
+1156,"large road, police control, few people move",0
+1157,"police control, large road",0
+1158,normal,0
+1159,"police control, normal",0
+1160,"large road, police control",0
+1161,"accident, fog, potholo",1
+1162,"road construction, object on roadway, accident, potholo",1
+1163,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1164,"major event, monor accident, small traffic jam, flodded",1
+1165,"medium traffic jam, normal",0
+1166,"good traffic, huge traffic jam, police control",0
+1167,normal,0
+1168,"flooded road, potholo, traffic jam",1
+1169,"flooding, potholo, bus route, police control",1
+1170,normal,0
+1171,"the route with many pedestrians, encroaching on the sidewalk",1
+1172,"near university, traffic jam, accident, flooded",1
+1173,"few people move, normal, large road",0
+1174,"good traffic, police control",0
+1175,"large road, police control, few people move",0
+1176,"police control, large road",0
+1177,normal,0
+1178,"police control, normal",0
+1179,"large road, police control",0
+1180,"accident, fog, potholo",1
+1181,"road construction, object on roadway, accident, potholo",1
+1182,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1183,"major event, monor accident, small traffic jam, flodded",1
+1184,"medium traffic jam, normal",0
+1185,"good traffic, huge traffic jam, police control",0
+1186,normal,0
+1187,"flooded road, potholo, traffic jam",1
+1188,"flooding, potholo, bus route, police control",1
+1189,normal,0
+1190,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1191,"good road have traffic police, police control, good traffic",0
+1192,"police control, good traffic",0
+1193,"small road, flooding, traffic jam",1
+1194,other,0
+1195,"encroachung on the side, have childrens, near school district, accident",1
+1196,"someone is going in the opposite direction, asynchronous infrastructure",1
+1197,"the route with many pedestrians, encroaching on the sidewalk",1
+1198,"near university, traffic jam, accident, flooded",1
+1199,"few people move, normal, large road",0
+1200,"good traffic, police control",0
+1201,"large road, police control, few people move",0
+1202,"police control, large road",0
+1203,normal,0
+1204,"police control, normal",0
+1205,"large road, police control",0
+1206,"accident, fog, potholo",1
+1207,"road construction, object on roadway, accident, potholo",1
+1208,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1209,"major event, monor accident, small traffic jam, flodded",1
+1210,"medium traffic jam, normal",0
+1211,"good traffic, huge traffic jam, police control",0
+1212,normal,0
+1213,"flooded road, potholo, traffic jam",1
+1214,"flooding, potholo, bus route, police control",1
+1215,normal,0
+1216,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1217,"good road have traffic police, police control, good traffic",0
+1218,"police control, good traffic",0
+1219,"small road, flooding, traffic jam",1
+1220,other,0
+1221,"encroachung on the side, have childrens, near school district, accident",1
+1222,"someone is going in the opposite direction, asynchronous infrastructure",1
+1223,"the route with many pedestrians, encroaching on the sidewalk",1
+1224,"near university, traffic jam, accident, flooded",1
+1225,"few people move, normal, large road",0
+1226,"good traffic, police control",0
+1227,"large road, police control, few people move",0
+1228,"police control, large road",0
+1229,normal,0
+1230,"police control, normal",0
+1231,"large road, police control",0
+1232,"accident, fog, potholo",1
+1233,"road construction, object on roadway, accident, potholo",1
+1234,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1235,"major event, monor accident, small traffic jam, flodded",1
+1236,"medium traffic jam, normal",0
+1237,"good traffic, huge traffic jam, police control",0
+1238,normal,0
+1239,"flooded road, potholo, traffic jam",1
+1240,"flooding, potholo, bus route, police control",1
+1241,"someone is going in the opposite direction, asynchronous infrastructure",1
+1242,"the route with many pedestrians, encroaching on the sidewalk",1
+1243,"near university, traffic jam, accident, flooded",1
+1244,"few people move, normal, large road",0
+1245,"good traffic, police control",0
+1246,"large road, police control, few people move",0
+1247,"police control, large road",0
+1248,normal,0
+1249,"police control, normal",0
+1250,"large road, police control",0
+1251,"accident, fog, potholo",1
+1252,"road construction, object on roadway, accident, potholo",1
+1253,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1254,"major event, monor accident, small traffic jam, flodded",1
+1255,"medium traffic jam, normal",0
+1256,"good traffic, huge traffic jam, police control",0
+1257,normal,0
+1258,"flooded road, potholo, traffic jam",1
+1259,"flooding, potholo, bus route, police control",1
+1260,"flooded road, potholo, traffic jam",1
+1261,"flooding, potholo, bus route, police control",1
+1262,normal,0
+1263,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1264,"good road have traffic police, police control, good traffic",0
+1265,"police control, good traffic",0
+1266,"small road, flooding, traffic jam",1
+1267,other,0
+1268,"encroachung on the side, have childrens, near school district, accident",1
+1269,"someone is going in the opposite direction, asynchronous infrastructure",1
+1270,"the route with many pedestrians, encroaching on the sidewalk",1
+1271,"near university, traffic jam, accident, flooded",1
+1272,"few people move, normal, large road",0
+1273,"good traffic, police control",0
+1274,"large road, police control, few people move",0
+1275,"police control, large road",0
+1276,normal,0
+1277,"police control, normal",0
+1278,"large road, police control",0
+1279,"accident, fog, potholo",1
+1280,"road construction, object on roadway, accident, potholo",1
+1281,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1282,"major event, monor accident, small traffic jam, flodded",1
+1283,"medium traffic jam, normal",0
+1284,"good traffic, huge traffic jam, police control",0
+1285,normal,0
+1286,"flooded road, potholo, traffic jam",1
+1287,"flooding, potholo, bus route, police control",1
+1288,normal,0
+1289,"the route with many pedestrians, encroaching on the sidewalk",1
+1290,"near university, traffic jam, accident, flooded",1
+1291,"few people move, normal, large road",0
+1292,"good traffic, police control",0
+1293,"large road, police control, few people move",0
+1294,"police control, large road",0
+1295,normal,0
+1296,"police control, normal",0
+1297,"large road, police control",0
+1298,"accident, fog, potholo",1
+1299,"road construction, object on roadway, accident, potholo",1
+1300,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1301,"major event, monor accident, small traffic jam, flodded",1
+1302,"medium traffic jam, normal",0
+1303,"good traffic, huge traffic jam, police control",0
+1304,normal,0
+1305,"flooded road, potholo, traffic jam",1
+1306,"flooding, potholo, bus route, police control",1
+1307,normal,0
+1308,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1309,"good road have traffic police, police control, good traffic",0
+1310,"police control, good traffic",0
+1311,"small road, flooding, traffic jam",1
+1312,other,0
+1313,"encroachung on the side, have childrens, near school district, accident",1
+1314,"someone is going in the opposite direction, asynchronous infrastructure",1
+1315,"the route with many pedestrians, encroaching on the sidewalk",1
+1316,"near university, traffic jam, accident, flooded",1
+1317,"few people move, normal, large road",0
+1318,"good traffic, police control",0
+1319,"large road, police control, few people move",0
+1320,"police control, large road",0
+1321,normal,0
+1322,"police control, normal",0
+1323,"large road, police control",0
+1324,"accident, fog, potholo",1
+1325,"road construction, object on roadway, accident, potholo",1
+1326,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1327,"major event, monor accident, small traffic jam, flodded",1
+1328,"medium traffic jam, normal",0
+1329,"good traffic, huge traffic jam, police control",0
+1330,normal,0
+1331,"flooded road, potholo, traffic jam",1
+1332,"flooding, potholo, bus route, police control",1
+1333,normal,0
+1334,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1335,"good road have traffic police, police control, good traffic",0
+1336,"police control, good traffic",0
+1337,"small road, flooding, traffic jam",1
+1338,other,0
+1339,"encroachung on the side, have childrens, near school district, accident",1
+1340,"someone is going in the opposite direction, asynchronous infrastructure",1
+1341,"the route with many pedestrians, encroaching on the sidewalk",1
+1342,"near university, traffic jam, accident, flooded",1
+1343,"few people move, normal, large road",0
+1344,"good traffic, police control",0
+1345,"large road, police control, few people move",0
+1346,"police control, large road",0
+1347,normal,0
+1348,"police control, normal",0
+1349,"large road, police control",0
+1350,"accident, fog, potholo",1
+1351,"road construction, object on roadway, accident, potholo",1
+1352,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1353,"major event, monor accident, small traffic jam, flodded",1
+1354,"medium traffic jam, normal",0
+1355,"good traffic, huge traffic jam, police control",0
+1356,normal,0
+1357,"flooded road, potholo, traffic jam",1
+1358,"flooding, potholo, bus route, police control",1
+1359,"someone is going in the opposite direction, asynchronous infrastructure",1
+1360,"the route with many pedestrians, encroaching on the sidewalk",1
+1361,"near university, traffic jam, accident, flooded",1
+1362,"few people move, normal, large road",0
+1363,"good traffic, police control",0
+1364,"large road, police control, few people move",0
+1365,"police control, large road",0
+1366,normal,0
+1367,"police control, normal",0
+1368,"large road, police control",0
+1369,"accident, fog, potholo",1
+1370,"road construction, object on roadway, accident, potholo",1
+1371,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1372,"major event, monor accident, small traffic jam, flodded",1
+1373,"medium traffic jam, normal",0
+1374,"good traffic, huge traffic jam, police control",0
+1375,normal,0
+1376,"flooded road, potholo, traffic jam",1
+1377,"flooding, potholo, bus route, police control",1
+1378,normal,0
+1379,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1380,"good road have traffic police, police control, good traffic",0
+1381,"police control, good traffic",0
+1382,"small road, flooding, traffic jam",1
+1383,other,0
+1384,"encroachung on the side, have childrens, near school district, accident",1
+1385,"someone is going in the opposite direction, asynchronous infrastructure",1
+1386,"the route with many pedestrians, encroaching on the sidewalk",1
+1387,"near university, traffic jam, accident, flooded",1
+1388,"few people move, normal, large road",0
+1389,"good traffic, police control",0
+1390,"large road, police control, few people move",0
+1391,"police control, large road",0
+1392,normal,0
+1393,"police control, normal",0
+1394,"large road, police control",0
+1395,"accident, fog, potholo",1
+1396,"road construction, object on roadway, accident, potholo",1
+1397,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1398,"major event, monor accident, small traffic jam, flodded",1
+1399,"medium traffic jam, normal",0
+1400,"good traffic, huge traffic jam, police control",0
+1401,normal,0
+1402,"flooded road, potholo, traffic jam",1
+1403,"flooding, potholo, bus route, police control",1
+1404,"someone is going in the opposite direction, asynchronous infrastructure",1
+1405,"the route with many pedestrians, encroaching on the sidewalk",1
+1406,"near university, traffic jam, accident, flooded",1
+1407,"few people move, normal, large road",0
+1408,"good traffic, police control",0
+1409,"large road, police control, few people move",0
+1410,"police control, large road",0
+1411,normal,0
+1412,"police control, normal",0
+1413,"large road, police control",0
+1414,"accident, fog, potholo",1
+1415,"road construction, object on roadway, accident, potholo",1
+1416,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1417,"major event, monor accident, small traffic jam, flodded",1
+1418,"medium traffic jam, normal",0
+1419,"good traffic, huge traffic jam, police control",0
+1420,normal,0
+1421,"flooded road, potholo, traffic jam",1
+1422,"flooding, potholo, bus route, police control",1
+1423,"flooded road, potholo, traffic jam",1
+1424,"flooding, potholo, bus route, police control",1
+1425,normal,0
+1426,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1427,"good road have traffic police, police control, good traffic",0
+1428,"police control, good traffic",0
+1429,"small road, flooding, traffic jam",1
+1430,other,0
+1431,"encroachung on the side, have childrens, near school district, accident",1
+1432,"someone is going in the opposite direction, asynchronous infrastructure",1
+1433,"the route with many pedestrians, encroaching on the sidewalk",1
+1434,"near university, traffic jam, accident, flooded",1
+1435,"few people move, normal, large road",0
+1436,"good traffic, police control",0
+1437,"large road, police control, few people move",0
+1438,"police control, large road",0
+1439,normal,0
+1440,"police control, normal",0
+1441,"large road, police control",0
+1442,"accident, fog, potholo",1
+1443,"road construction, object on roadway, accident, potholo",1
+1444,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1445,"major event, monor accident, small traffic jam, flodded",1
+1446,"medium traffic jam, normal",0
+1447,"good traffic, huge traffic jam, police control",0
+1448,normal,0
+1449,"flooded road, potholo, traffic jam",1
+1450,"flooding, potholo, bus route, police control",1
+1451,normal,0
+1452,"the route with many pedestrians, encroaching on the sidewalk",1
+1453,"near university, traffic jam, accident, flooded",1
+1454,"few people move, normal, large road",0
+1455,"good traffic, police control",0
+1456,"large road, police control, few people move",0
+1457,"police control, large road",0
+1458,normal,0
+1459,"police control, normal",0
+1460,"large road, police control",0
+1461,"accident, fog, potholo",1
+1462,"road construction, object on roadway, accident, potholo",1
+1463,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1464,"major event, monor accident, small traffic jam, flodded",1
+1465,"medium traffic jam, normal",0
+1466,"good traffic, huge traffic jam, police control",0
+1467,normal,0
+1468,"flooded road, potholo, traffic jam",1
+1469,"flooding, potholo, bus route, police control",1
+1470,normal,0
+1471,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1472,"good road have traffic police, police control, good traffic",0
+1473,"police control, good traffic",0
+1474,"small road, flooding, traffic jam",1
+1475,other,0
+1476,"encroachung on the side, have childrens, near school district, accident",1
+1477,"someone is going in the opposite direction, asynchronous infrastructure",1
+1478,"the route with many pedestrians, encroaching on the sidewalk",1
+1479,"near university, traffic jam, accident, flooded",1
+1480,"few people move, normal, large road",0
+1481,"good traffic, police control",0
+1482,"large road, police control, few people move",0
+1483,"police control, large road",0
+1484,normal,0
+1485,"police control, normal",0
+1486,"large road, police control",0
+1487,"accident, fog, potholo",1
+1488,"road construction, object on roadway, accident, potholo",1
+1489,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1490,"major event, monor accident, small traffic jam, flodded",1
+1491,"medium traffic jam, normal",0
+1492,"good traffic, huge traffic jam, police control",0
+1493,normal,0
+1494,"flooded road, potholo, traffic jam",1
+1495,"flooding, potholo, bus route, police control",1
+1496,normal,0
+1497,"bus road, street vendors, slowdowns, traffic jam, small road",1
+1498,"good road have traffic police, police control, good traffic",0
+1499,"police control, good traffic",0
+1500,"small road, flooding, traffic jam",1
+1501,other,0
+1502,"encroachung on the side, have childrens, near school district, accident",1
+1503,"someone is going in the opposite direction, asynchronous infrastructure",1
+1504,"the route with many pedestrians, encroaching on the sidewalk",1
+1505,"near university, traffic jam, accident, flooded",1
+1506,"few people move, normal, large road",0
+1507,"good traffic, police control",0
+1508,"large road, police control, few people move",0
+1509,"police control, large road",0
+1510,normal,0
+1511,"police control, normal",0
+1512,"large road, police control",0
+1513,"accident, fog, potholo",1
+1514,"road construction, object on roadway, accident, potholo",1
+1515,"slowdown, stopped car, trafffic heavier than normal, flooded",1
+1516,"major event, monor accident, small traffic jam, flodded",1
+1517,"medium traffic jam, normal",0
+1518,"good traffic, huge traffic jam, police control",0
+1519,normal,0
+1520,"flooded road, potholo, traffic jam",1
+1521,"flooding, potholo, bus route, police control",1
